@@ -1,2 +1,2 @@
-# FernandaMSC.github.io
+# fernandamsc.github.io
 Currículo do Jornada Dev
